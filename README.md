@@ -1,2 +1,9 @@
 # Nathans-Password-Generator
-Random password generator
+
+## Description
+Creating a random password generator that meets the requirements of the Module 3 challenge. 
+
+![Alt text](image.png)
+
+Link to Github repo : https://github.com/nathanphan21/Nathans-Password-Generator
+Link to Webpage : 
